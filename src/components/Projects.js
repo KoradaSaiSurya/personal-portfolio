@@ -22,7 +22,7 @@ const Projects = () => {
          <h3> Weather </h3> 
          <div className='Gitlive'> 
          <a  className='git' href='https://github.com/KoradaSaiSurya/search-weather.git'> GitHub </a>
-         <span className='git'> Live Demo </span>
+         <a className='git'  href="http://search-weather-zeta.vercel.app"> Live Demo </a>
          </div>
       </div>
 
@@ -31,7 +31,7 @@ const Projects = () => {
          <h3> Expense Tracker </h3> 
          <div className='Gitlive'> 
          <a  className='git' href='https://github.com/KoradaSaiSurya/expense-tracker.git'> GitHub </a>
-         <span className='git'> Live Demo </span>
+        <a className='git'  href="http://expense-tracker-dun-two.vercel.app"> Live Demo </a>
          </div>
       </div>
       

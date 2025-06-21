@@ -11,7 +11,7 @@ import Footer from './components/Footer'
 
 const Home = () => {
   return (
-    <div>
+    <div className='overall' >
      <div className='homeImgText'> 
 
       <div className='suryaImgDiv '> <img className='suryaImg' src='suryaImg.jpg' alt='suryaImg'/> <br/> </div>

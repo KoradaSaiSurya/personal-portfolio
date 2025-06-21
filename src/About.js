@@ -16,18 +16,18 @@ const About = () => {
             <div className='experience'>
               <h4> Experience </h4>
               <p> Fresher </p>
-              <p> Frontend Development</p>
+              <p> Frontend Web Development</p>
             </div>
 
             <div className='experience'>
               <h4> Education </h4>
               <p> 2025 </p>
-              <p> Bachelor Science in Computers </p>
+              <p style={{fontSize:"15px"}}> Bachelor Science in Computers </p>
             </div>
           </div>
 
           <p className='about-paragraph'>
-            I'm a self-taught Frontend Developer from Tuni, AndhraPradesh,
+            I'm a self-taught <strong>  Frontend Developer </strong> from Tuni, AndhraPradesh,
             passionate about building beautiful, fast, and user-friendly websites.
             I specialize in HTML, CSS, JavaScript, and React.
             I love turning designs into real-world applications that solve problems and look great on all devices.
